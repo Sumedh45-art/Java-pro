@@ -5,7 +5,6 @@ class Book{
     String author;
     double price;
     int stock;
-  
     Book(String titleStr, String authorStr, double cost, int quantity){
         title = titleStr;
         author = authorStr;
